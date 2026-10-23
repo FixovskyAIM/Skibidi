@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://fixovskyaim.github.io/skibidi/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://fixovskyaim.github.io/skibidi/</loc>
+</url>
+<url>
+<loc>https://fixovskyaim.github.io/skibidi/fortniteggwp/</loc>
+<lastmod>2026-10-23T11:38:26+02:00</lastmod>
+</url>
+<url>
+<loc>https://fixovskyaim.github.io/skibidi/fortniteggwp-map/</loc>
+<lastmod>2026-10-13T09:09:49+02:00</lastmod>
+<image:image>
+<image:loc>https://fixovskyaim.github.io/skibidi/media/posts/2/Helios_29_-_Island_-_Fortnite.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://fixovskyaim.github.io/skibidi/tournaments/</loc>
+<lastmod>2026-10-23T11:25:46+02:00</lastmod>
+</url>
+</urlset>
