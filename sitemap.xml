@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://fixovskyaim.github.io/skibidi/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://fixovskyaim.github.io/Skibidi/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://fixovskyaim.github.io/skibidi/</loc>
+<loc>https://fixovskyaim.github.io/Skibidi/</loc>
 </url>
 <url>
-<loc>https://fixovskyaim.github.io/skibidi/fortniteggwp/</loc>
+<loc>https://fixovskyaim.github.io/Skibidi/fortniteggwp/</loc>
 <lastmod>2026-10-23T11:38:26+02:00</lastmod>
 </url>
 <url>
-<loc>https://fixovskyaim.github.io/skibidi/tournaments/</loc>
+<loc>https://fixovskyaim.github.io/Skibidi/tournaments/</loc>
 <lastmod>2026-10-23T11:25:46+02:00</lastmod>
 </url>
 </urlset>
